@@ -10,7 +10,7 @@ construct==2.5.2
 cryptography==1.1.2
 enum34==1.1.2
 futures==3.0.5
-hpack==2.0.1
+hpack==2.3.0
 html2text==2015.11.4
 idna==2.0
 ipaddress==1.0.16
