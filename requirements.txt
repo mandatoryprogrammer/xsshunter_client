@@ -7,7 +7,7 @@ cffi==1.5.2
 click==6.2
 ConfigArgParse==0.10.0
 construct==2.5.2
-cryptography==1.1.2
+cryptography==3.2
 enum34==1.1.2
 futures==3.0.5
 hpack==2.0.1
