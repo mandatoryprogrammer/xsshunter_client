@@ -26,7 +26,7 @@ pycparser==2.14
 pyOpenSSL==0.15.1
 pyparsing==2.0.7
 pyperclip==1.5.26
-PyYAML==3.11
+PyYAML==5.4
 requests==2.9.1
 requests-futures==0.9.7
 singledispatch==3.4.0.3
