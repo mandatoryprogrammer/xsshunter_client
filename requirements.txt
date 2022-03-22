@@ -15,7 +15,7 @@ html2text==2015.11.4
 idna==2.0
 ipaddress==1.0.16
 lxml==3.4.4
-mitmproxy==0.15
+mitmproxy==8.0.0
 ndg-httpsclient==0.4.0
 netlib==0.15.1
 passlib==1.6.5
