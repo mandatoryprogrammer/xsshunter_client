@@ -20,7 +20,7 @@ ndg-httpsclient==0.4.0
 netlib==0.15.1
 passlib==1.6.5
 pathtools==0.1.2
-Pillow==3.0.0
+Pillow==9.3.0
 pyasn1==0.1.9
 pycparser==2.14
 pyOpenSSL==0.15.1
