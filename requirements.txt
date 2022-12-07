@@ -2,7 +2,7 @@ argh==0.26.1
 backports-abc==0.4
 backports.ssl-match-hostname==3.5.0.1
 blinker==1.4
-certifi==2016.2.28
+certifi==2022.12.7
 cffi==1.5.2
 click==6.2
 ConfigArgParse==0.10.0
